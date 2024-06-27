@@ -29,7 +29,7 @@ Without logging in from the login screen, we cannot access the Manage Products s
 Login Page:
 ![image](https://github.com/SirYavuz/manage-product-asp-net/assets/51060721/cd8cfa3a-41be-44ae-99ec-924dac70595d)
 
-Production Management Page:
+Product Management Page:
 ![image](https://github.com/SirYavuz/manage-product-asp-net/assets/51060721/239daedd-5eed-440a-a548-18a620d7fb12)
 
 Register Page:
