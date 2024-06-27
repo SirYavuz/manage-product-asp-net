@@ -113,7 +113,7 @@ public partial class ManageProducts : System.Web.UI.Page
 
                 connection.Open();
                 command.ExecuteNonQuery();
-                Response.Write("<script>alert('Ürün bilgileri güncellendi!')</script>");
+                Response.Write("<script>alert('Product details updated!')</script>");
                 connection.Close();
             }
 
@@ -135,7 +135,7 @@ public partial class ManageProducts : System.Web.UI.Page
 
             connection.Open();
             command.ExecuteNonQuery();
-            Response.Write("<script>alert('Ürün Silme işlemi gerçekleştirildi.')</script>");
+            Response.Write("<script>alert('Product deleted.')</script>");
             connection.Close();
         }
 
@@ -153,7 +153,7 @@ public partial class ManageProducts : System.Web.UI.Page
         }
         else
         {
-            return "Bilinmiyor";
+            return "Unknown";
         }
     }
 

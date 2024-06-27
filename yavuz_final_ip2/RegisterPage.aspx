@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>Kayıt Ol</title>
+    <title>Register</title>
     <!-- Bootstrap CSS -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" />
     <style>
@@ -45,7 +45,7 @@
                         <asp:RequiredFieldValidator ID="rfvPassword" runat="server" ControlToValidate="txtPassword" ErrorMessage="Password Required!" CssClass="text-danger" />
                     </div>
                     <div class="form-group">
-                        <asp:Label ID="lblPhone" runat="server" Text="Telefon:" CssClass="control-label"></asp:Label>
+                        <asp:Label ID="lblPhone" runat="server" Text="Phone Number:" CssClass="control-label"></asp:Label>
                         <asp:TextBox ID="txtPhone" runat="server" CssClass="form-control"></asp:TextBox>
                         <asp:RequiredFieldValidator ID="rfvPhone" runat="server" ControlToValidate="txtPhone" ErrorMessage="Phone number Required!" CssClass="text-danger" />
                         <asp:RegularExpressionValidator ID="revPhone" runat="server" ControlToValidate="txtPhone" ErrorMessage="Wrong number format!" ValidationExpression="\d{10}" CssClass="text-danger" />
@@ -72,7 +72,7 @@
         window.onload = function () {
             var registrationStatus = document.getElementById('<%= hdnRegistrationStatus.ClientID %>').value;
             if (registrationStatus === 'success') {
-                showAlertAndRedirect('Kayıt başarılı!', 'LoginPage.aspx');
+                showAlertAndRedirect('Registration is success!', 'LoginPage.aspx');
             }
         };
     </script>
