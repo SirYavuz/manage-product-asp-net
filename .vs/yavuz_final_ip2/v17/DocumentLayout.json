@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ED84F2-5159-4A48-B935-9040421CECE0}|C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2|c:\\users\\root\\desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\manageproducts.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E4ED84F2-5159-4A48-B935-9040421CECE0}|C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2|solutionrelative:yavuz_final_ip2\\manageproducts.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ED84F2-5159-4A48-B935-9040421CECE0}|C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2|c:\\users\\root\\desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4ED84F2-5159-4A48-B935-9040421CECE0}|C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2|solutionrelative:yavuz_final_ip2\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ED84F2-5159-4A48-B935-9040421CECE0}|C:\\Users\\root\\Desktop\\school\\yavuz_karaca_ip2_final\\kodlar\\yavuz_final_ip2|C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4ED84F2-5159-4A48-B935-9040421CECE0}|C:\\Users\\root\\Desktop\\school\\yavuz_karaca_ip2_final\\kodlar\\yavuz_final_ip2|solutionrelative:yavuz_final_ip2\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ED84F2-5159-4A48-B935-9040421CECE0}|C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2|c:\\users\\root\\desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E4ED84F2-5159-4A48-B935-9040421CECE0}|C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2|solutionrelative:yavuz_final_ip2\\loginpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ED84F2-5159-4A48-B935-9040421CECE0}|C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2|c:\\users\\root\\desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E4ED84F2-5159-4A48-B935-9040421CECE0}|C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2|solutionrelative:yavuz_final_ip2\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ED84F2-5159-4A48-B935-9040421CECE0}|C:\\Users\\root\\Desktop\\school\\yavuz_karaca_ip2_final\\kodlar\\yavuz_final_ip2|C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\manageproducts.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E4ED84F2-5159-4A48-B935-9040421CECE0}|C:\\Users\\root\\Desktop\\school\\yavuz_karaca_ip2_final\\kodlar\\yavuz_final_ip2|solutionrelative:yavuz_final_ip2\\manageproducts.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ED84F2-5159-4A48-B935-9040421CECE0}|C:\\Users\\root\\Desktop\\school\\yavuz_karaca_ip2_final\\kodlar\\yavuz_final_ip2|C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\manageproducts.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4ED84F2-5159-4A48-B935-9040421CECE0}|C:\\Users\\root\\Desktop\\school\\yavuz_karaca_ip2_final\\kodlar\\yavuz_final_ip2|solutionrelative:yavuz_final_ip2\\manageproducts.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ED84F2-5159-4A48-B935-9040421CECE0}|C:\\Users\\root\\Desktop\\school\\yavuz_karaca_ip2_final\\kodlar\\yavuz_final_ip2|C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4ED84F2-5159-4A48-B935-9040421CECE0}|C:\\Users\\root\\Desktop\\school\\yavuz_karaca_ip2_final\\kodlar\\yavuz_final_ip2|solutionrelative:yavuz_final_ip2\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ED84F2-5159-4A48-B935-9040421CECE0}|C:\\Users\\root\\Desktop\\yavuz_karaca_ip2_final\\kodlar\\yavuz_final_ip2|C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4ED84F2-5159-4A48-B935-9040421CECE0}|C:\\Users\\root\\Desktop\\yavuz_karaca_ip2_final\\kodlar\\yavuz_final_ip2|solutionrelative:yavuz_final_ip2\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ED84F2-5159-4A48-B935-9040421CECE0}|C:\\Users\\Karac\\Desktop\\yavuz_final_ip2\\yavuz_final_ip2|C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4ED84F2-5159-4A48-B935-9040421CECE0}|C:\\Users\\Karac\\Desktop\\yavuz_final_ip2\\yavuz_final_ip2|solutionrelative:yavuz_final_ip2\\loginpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ED84F2-5159-4A48-B935-9040421CECE0}|C:\\Users\\Karac\\Desktop\\yavuz_final_ip2\\yavuz_final_ip2|C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E4ED84F2-5159-4A48-B935-9040421CECE0}|C:\\Users\\Karac\\Desktop\\yavuz_final_ip2\\yavuz_final_ip2|solutionrelative:yavuz_final_ip2\\registerpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ED84F2-5159-4A48-B935-9040421CECE0}|C:\\Users\\Karac\\Desktop\\yavuz_final_ip2\\yavuz_final_ip2|C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4ED84F2-5159-4A48-B935-9040421CECE0}|C:\\Users\\Karac\\Desktop\\yavuz_final_ip2\\yavuz_final_ip2|solutionrelative:yavuz_final_ip2\\registerpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ED84F2-5159-4A48-B935-9040421CECE0}|C:\\Users\\Karac\\Desktop\\yavuz_final_ip2\\yavuz_final_ip2|C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\manageproducts.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4ED84F2-5159-4A48-B935-9040421CECE0}|C:\\Users\\Karac\\Desktop\\yavuz_final_ip2\\yavuz_final_ip2|solutionrelative:yavuz_final_ip2\\manageproducts.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ED84F2-5159-4A48-B935-9040421CECE0}|C:\\Users\\root\\Desktop\\yavuz_karaca_ip2_final\\kodlar\\yavuz_final_ip2|C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\manageproducts.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E4ED84F2-5159-4A48-B935-9040421CECE0}|C:\\Users\\root\\Desktop\\yavuz_karaca_ip2_final\\kodlar\\yavuz_final_ip2|solutionrelative:yavuz_final_ip2\\manageproducts.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ED84F2-5159-4A48-B935-9040421CECE0}|C:\\Users\\root\\Desktop\\yavuz_karaca_ip2_final\\kodlar\\yavuz_final_ip2|C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E4ED84F2-5159-4A48-B935-9040421CECE0}|C:\\Users\\root\\Desktop\\yavuz_karaca_ip2_final\\kodlar\\yavuz_final_ip2|solutionrelative:yavuz_final_ip2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ED84F2-5159-4A48-B935-9040421CECE0}|C:\\Users\\Karac\\Desktop\\yavuz_final_ip2\\yavuz_final_ip2|C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E4ED84F2-5159-4A48-B935-9040421CECE0}|C:\\Users\\Karac\\Desktop\\yavuz_final_ip2\\yavuz_final_ip2|solutionrelative:yavuz_final_ip2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ED84F2-5159-4A48-B935-9040421CECE0}|C:\\Users\\root\\Desktop\\yavuz_karaca_ip2_final\\kodlar\\yavuz_final_ip2|C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\app_code\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4ED84F2-5159-4A48-B935-9040421CECE0}|C:\\Users\\root\\Desktop\\yavuz_karaca_ip2_final\\kodlar\\yavuz_final_ip2|solutionrelative:yavuz_final_ip2\\app_code\\identitymodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 126,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManageProducts.aspx",
+              "DocumentMoniker": "C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\ManageProducts.aspx",
+              "RelativeDocumentMoniker": "yavuz_final_ip2\\ManageProducts.aspx",
+              "ToolTip": "C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\ManageProducts.aspx",
+              "RelativeToolTip": "yavuz_final_ip2\\ManageProducts.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-27T20:36:49.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\LoginPage.aspx.cs",
+              "RelativeDocumentMoniker": "yavuz_final_ip2\\LoginPage.aspx.cs",
+              "ToolTip": "C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\LoginPage.aspx.cs",
+              "RelativeToolTip": "yavuz_final_ip2\\LoginPage.aspx.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAqwCQAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T20:36:50.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginPage.aspx",
+              "DocumentMoniker": "C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\LoginPage.aspx",
+              "RelativeDocumentMoniker": "yavuz_final_ip2\\LoginPage.aspx",
+              "ToolTip": "C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\LoginPage.aspx",
+              "RelativeToolTip": "yavuz_final_ip2\\LoginPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-27T20:35:33.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterPage.aspx",
+              "DocumentMoniker": "C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\RegisterPage.aspx",
+              "RelativeDocumentMoniker": "yavuz_final_ip2\\RegisterPage.aspx",
+              "ToolTip": "C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\RegisterPage.aspx",
+              "RelativeToolTip": "yavuz_final_ip2\\RegisterPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-09T18:31:31.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManageProducts.aspx",
+              "DocumentMoniker": "C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\ManageProducts.aspx",
+              "RelativeDocumentMoniker": "yavuz_final_ip2\\ManageProducts.aspx",
+              "ToolTip": "C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\ManageProducts.aspx",
+              "RelativeToolTip": "yavuz_final_ip2\\ManageProducts.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-09T18:31:31.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ManageProducts.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\ManageProducts.aspx.cs",
+              "RelativeDocumentMoniker": "yavuz_final_ip2\\ManageProducts.aspx.cs",
+              "ToolTip": "C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\ManageProducts.aspx.cs",
+              "RelativeToolTip": "yavuz_final_ip2\\ManageProducts.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T18:31:31.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\RegisterPage.aspx.cs",
+              "RelativeDocumentMoniker": "yavuz_final_ip2\\RegisterPage.aspx.cs",
+              "ToolTip": "C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\RegisterPage.aspx.cs",
+              "RelativeToolTip": "yavuz_final_ip2\\RegisterPage.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:50:56.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\LoginPage.aspx.cs",
+              "RelativeDocumentMoniker": "yavuz_final_ip2\\LoginPage.aspx.cs",
+              "ToolTip": "C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\LoginPage.aspx.cs",
+              "RelativeToolTip": "yavuz_final_ip2\\LoginPage.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:50:53.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\RegisterPage.aspx.cs",
+              "RelativeDocumentMoniker": "yavuz_final_ip2\\RegisterPage.aspx.cs",
+              "ToolTip": "C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\RegisterPage.aspx.cs",
+              "RelativeToolTip": "yavuz_final_ip2\\RegisterPage.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwDYAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADfSURBVDhPY/z27dt/BhyAi4uLEcrECZiQFaXNOsHAFbsMTIMAyHB0DJZABugKYibs\u002B88QPAdMg/hOTk5g3NbWBlcD1QoGYC\u002BAbMUGYmyVGGYkmzH4\u002BfuB\u002BS4uLgwFBQVgNszlTGAekWDPnj0MEyZMgPIgAGzAt8VRcAyyFQRgtv/58xfMhwGQIRgA5jdk/3/5/OX/h/cfMTAoPJDDAWs0/vv7D8NmGAgKDmTYsmULIgxADBjHx8eH4dfP3zg1YwMkBSI2MAwMgOcDUGyAApEYgBwLKAZAmUQBmAEUAgYGAD7Gqti8PqzlAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-06-09T16:50:03.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterPage.aspx",
+              "DocumentMoniker": "C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\RegisterPage.aspx",
+              "RelativeDocumentMoniker": "yavuz_final_ip2\\RegisterPage.aspx",
+              "ToolTip": "C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\RegisterPage.aspx",
+              "RelativeToolTip": "yavuz_final_ip2\\RegisterPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFpSURBVDhPnZM9S8NgEMf/TXVJfB0cdKiQxcE6OVSdHSOiDkIXZ7\u002BAmk8Q8Qs4ioubL9GsDi5iRadMLoEWrEJBK9qApo161zwxpomiPwj3Eu7/3N2TZBDDdd33wP0RWZa5NlFA07Qg6kRVVRiGAUVRWCRV4GD/MMh8sbi0wDYqInHmjziOA13X2f\u002BXAEEiRDhCdHm2bSM/nofv\u002B2i1/CD7HRrHsqx2B1Rcfmli\u002BbQGeaeMwlUflN0KimcPqL59ntK5qhBJFE\u002BZd5gZ6uZkvTjCluLp43vcvqbfLHewVnrExkQvVscUTgoopvz6ZR3ZbPK6MtQBtf0bjZUcPK8ZRJEdUPsEtS1aj1rhpyGN9nSxM7BX5Uf4wgo/DR6Btk8Lo5mpgE4VdvumgfOah1nnCKZpBmVtaAQWELdAC9Ovn0IBY7Ifm/YzLuaHITqNwxcsROg2TiouvyDmcjK2CoNcLP6\u002BOIlfYpy0YgD4ANtBrSGAiU8IAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-06-09T16:50:03.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\LoginPage.aspx.cs",
+              "RelativeDocumentMoniker": "yavuz_final_ip2\\LoginPage.aspx.cs",
+              "ToolTip": "C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\LoginPage.aspx.cs",
+              "RelativeToolTip": "yavuz_final_ip2\\LoginPage.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwAoAAAA9AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADfSURBVDhPY/z27dt/BhyAi4uLEcrECZiQFaXNOsHAFbsMTIMAyHB0DJZABugKYibs\u002B88QPAdMg/hOTk5g3NbWBlcD1QoGYC\u002BAbMUGYmyVGGYkmzH4\u002BfuB\u002BS4uLgwFBQVgNszlTGAekWDPnj0MEyZMgPIgAGzAt8VRcAyyFQRgtv/58xfMhwGQIRgA5jdk/3/5/OX/h/cfMTAoPJDDAWs0/vv7D8NmGAgKDmTYsmULIgxADBjHx8eH4dfP3zg1YwMkBSI2MAwMgOcDUGyAApEYgBwLKAZAmUQBmAEUAgYGAD7Gqti8PqzlAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-06-09T16:50:03.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterPage.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\RegisterPage.aspx.cs",
+              "RelativeDocumentMoniker": "yavuz_final_ip2\\RegisterPage.aspx.cs",
+              "ToolTip": "C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\RegisterPage.aspx.cs",
+              "RelativeToolTip": "yavuz_final_ip2\\RegisterPage.aspx.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T18:35:34.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IdentityModels.cs",
+              "DocumentMoniker": "C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\App_Code\\IdentityModels.cs",
+              "RelativeDocumentMoniker": "yavuz_final_ip2\\App_Code\\IdentityModels.cs",
+              "ToolTip": "C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\App_Code\\IdentityModels.cs",
+              "RelativeToolTip": "yavuz_final_ip2\\App_Code\\IdentityModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T16:51:20.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\Web.config",
+              "RelativeDocumentMoniker": "yavuz_final_ip2\\Web.config",
+              "ToolTip": "C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\Web.config",
+              "RelativeToolTip": "yavuz_final_ip2\\Web.config",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAAwGAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-09T16:50:08.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ManageProducts.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\ManageProducts.aspx.cs",
+              "RelativeDocumentMoniker": "yavuz_final_ip2\\ManageProducts.aspx.cs",
+              "ToolTip": "C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\ManageProducts.aspx.cs",
+              "RelativeToolTip": "yavuz_final_ip2\\ManageProducts.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA/AAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADfSURBVDhPY/z27dt/BhyAi4uLEcrECZiQFaXNOsHAFbsMTIMAyHB0DJZABugKYibs\u002B88QPAdMg/hOTk5g3NbWBlcD1QoGYC\u002BAbMUGYmyVGGYkmzH4\u002BfuB\u002BS4uLgwFBQVgNszlTGAekWDPnj0MEyZMgPIgAGzAt8VRcAyyFQRgtv/58xfMhwGQIRgA5jdk/3/5/OX/h/cfMTAoPJDDAWs0/vv7D8NmGAgKDmTYsmULIgxADBjHx8eH4dfP3zg1YwMkBSI2MAwMgOcDUGyAApEYgBwLKAZAmUQBmAEUAgYGAD7Gqti8PqzlAAAAAElFTkSuQmCC",
+              "WhenOpened": "2024-06-09T16:50:04.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ManageProducts.aspx",
+              "DocumentMoniker": "C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\ManageProducts.aspx",
+              "RelativeDocumentMoniker": "yavuz_final_ip2\\ManageProducts.aspx",
+              "ToolTip": "C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\ManageProducts.aspx",
+              "RelativeToolTip": "yavuz_final_ip2\\ManageProducts.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-09T16:50:04.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\Web.config",
+              "RelativeDocumentMoniker": "yavuz_final_ip2\\Web.config",
+              "ToolTip": "C:\\Users\\root\\Desktop\\github\\manage-product-asp-net\\yavuz_final_ip2\\Web.config",
+              "RelativeToolTip": "yavuz_final_ip2\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAcAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAD4SURBVDhPlZIxEoIwEEUjWHEshpIZRu0oFXqOAjVnUBtKbgF1PILaUAno/5M4YYYgPibwd0k\u002BJLsbYdB13ajkTzzP49pZgzAMGc8RxzEHgInV4HK\u002BMmeyP\u002Bz4DIJAZFlG7fD\u002BJ3VdizzPqWmAL5v7r6pKKTswIVjYtu2YJAlNMKClvI2P\u002B9M6fN/nXP5BWZZCSklDAF0UuXC3rsrYoUHTNAxMkHOmZzzL5BBx\u002BmYJx8/1CxpEUcTABLlhWGmQpilrq4E\u002BHU9i6AeVsePoltSNAaBfr15Fy3xPCSXR\u002B9d9sNTSAPMWDdYwqYIJtrZmTP5ASYKXSi4gxBuMKZUznu8ANwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-06-09T16:50:04.403Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
